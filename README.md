@@ -19,6 +19,14 @@
 
 <br>
 
+## Utilities
+
+### CSS
+- https://easings.net/
+
+
+<br>
+
 ## Jobs
 - https://css-tricks.com/jobs/
 - https://remoteok.io/
