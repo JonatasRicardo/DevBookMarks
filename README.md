@@ -31,3 +31,6 @@
 - https://css-tricks.com/jobs/
 - https://remoteok.io/
 - https://github.com/frontendbr/vagas
+- https://www.toptal.com/
+- https://x-team.com/
+- https://www.bairesdev.com/
