@@ -34,3 +34,6 @@
 - https://www.toptal.com/
 - https://x-team.com/
 - https://www.bairesdev.com/
+- https://jobspresso.co/
+- https://remotive.io/remote-jobs/software-dev
+- https://weworkremotely.com/
