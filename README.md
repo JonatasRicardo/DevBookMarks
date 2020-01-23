@@ -29,8 +29,9 @@
 
 ## Jobs
 - https://css-tricks.com/jobs/
-- https://remoteok.io/
 - https://github.com/frontendbr/vagas
+- https://stackoverflow.com/jobs
+- https://remoteok.io/
 - https://www.toptal.com/
 - https://x-team.com/
 - https://www.bairesdev.com/
